@@ -1,5 +1,8 @@
 # NetWeaverHttpOBridge (ZC8A015)
 ## NetWeaverHttpOBridge (universal http in-out channel for external business-services)
+
+<img src="https://github.com/OlegBash599/ZC8A015/blob/main/lbl.svg"/>
+
 Main functions:
 1) read information from abap-based NetWeaver systems
 2) replicate information from abap-based NetWeaver systems to external data-processors
