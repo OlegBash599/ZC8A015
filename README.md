@@ -1,2 +1,6 @@
 # NetWeaverHttpOBridge (ZC8A015)
-NetWeaverHttpOBridge (universal http in-out channel for external business-services)
+## NetWeaverHttpOBridge (universal http in-out channel for external business-services)
+Main functions:
+1) read information from abap-based NetWeaver systems
+2) replicate information from abap-based NetWeaver systems to external data-processors
+3) CRUDQbin-operations inside ABAP-based NetWeaver systems from external data-processors
